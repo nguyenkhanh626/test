@@ -15,6 +15,7 @@ int main()
     //6
     //7
     //8
+    //lan 9 
     int z;
     int n;
     cin>>n;
