@@ -12,6 +12,7 @@ int main()
     // chinh lan 3
     // chinh lan 4
     // 5
+    //6
     int z;
     int n;
     cin>>n;
