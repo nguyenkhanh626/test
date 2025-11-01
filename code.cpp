@@ -5,8 +5,8 @@ using namespace std;
 int main()
 {
     
-    //freopen("input.txt","r",stdin);
-    //freopen("output.txt","w",stdout);
+    freopen("input.txt","r",stdin);
+    freopen("output.txt","w",stdout);
     // chinh sua lan 1
     // chinh lan 2
     // chinh lan 3
