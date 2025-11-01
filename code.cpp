@@ -8,6 +8,8 @@ int main()
     //freopen("input.txt","r",stdin);
     //freopen("output.txt","w",stdout);
     // chinh sua lan 1
+    // chinh lan 2
+    int z;
     int n;
     cin>>n;
     int a[1001];
