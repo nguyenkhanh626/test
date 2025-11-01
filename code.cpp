@@ -10,13 +10,12 @@ int main()
     // chinh sua lan 1
     // chinh lan 2
     // chinh lan 3
-    // chinh lan 4
     int z;
     int n;
     cin>>n;
     int a[1001];
     for(int i=1;i<=n;i++) cin>>a[i];
     for(int i=1;i<=n;i++) cout<<a[i]<<endl;
-
+    
     return 0;
 }
